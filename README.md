@@ -3,7 +3,7 @@
 
 ---
 ## USAGE
-- Download client for your platform
+- [Download client for your platform](https://github.com/kiba-scripts/hamster-kombat-client/releases)
 - Login to Telegram
 - Open Hamster Kombat
 - Start autoclicker
