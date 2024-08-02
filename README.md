@@ -1,5 +1,5 @@
 > [!NOTE]
-> - News and client updates in our [Telegram Channel](https://t.me/kiba_scripts)
+> - Subscribe for news and client updates to our [Telegram Channel](https://t.me/kiba_scripts)
 
 ---
 ## USAGE
