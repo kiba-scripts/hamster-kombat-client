@@ -14,6 +14,11 @@
 https://github.com/user-attachments/assets/ed153853-ca52-4c5c-b768-b7b06d90eb68
 
 ---
+## Our autoclickers
+
+- [TapSwap Client](https://github.com/kiba-scripts/tapswap-client)
+
+---
 > [!IMPORTANT]
 > Donations
 >
