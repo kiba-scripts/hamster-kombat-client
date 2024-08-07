@@ -13,7 +13,7 @@ Electron based Telegram WEB extension with autoclicker! Native running Hamster K
 ---
 ## DEMO
 
-https://github.com/user-attachments/assets/ed153853-ca52-4c5c-b768-b7b06d90eb68
+https://github.com/user-attachments/assets/138bf588-0ce6-43bd-abd2-31e3f936ea54
 
 ---
 ## Our autoclickers
